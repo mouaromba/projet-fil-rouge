@@ -1,0 +1,23 @@
+
+.navbar{
+ background-color: rgb(8, 8, 8);
+}
+
+#page-wrapper{
+    background-color: rgb(96, 134, 151)!important;
+    margin-left: 250px!important;
+   }
+   .logo{
+   height: 30px;
+   }
+
+   img{
+    border-radius: 15px;
+    box-shadow: 0px 1px 1px 1px;
+    }
+    form{
+        border-radius: 15px;
+       
+        margin: 10px;
+        }
+     
